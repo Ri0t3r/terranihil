@@ -10,7 +10,11 @@ tn_is_human_culture = {
 		culture_group = tn_native_american_siouan_group
 		culture_group = tn_native_american_southwestern_group
 		culture_group = tn_native_american_western_group
+		culture_group = tn_native_american_plains_group
+		culture_group = tn_native_american_arctic_group
+		culture_group = tn_south_american_native_group
 		culture_group = tn_african_group
+		culture_group = tn_maroon_group
 		culture_group = tn_perso_arabic_group
 		culture_group = tn_indian_group
 		culture_group = tn_east_asian_group
@@ -23,12 +27,12 @@ tn_is_human_culture = {
 
 tn_is_demihuman_culture = {
 	OR = {
-		culture_group = tn_dogfolk_group
-		culture_group = tn_catfolk_group
+		culture_group = tn_caninefolk_group
+		culture_group = tn_felinefolk_group
 		culture_group = tn_birdfolk_group
 		culture_group = tn_murid_group
 		culture_group = tn_fishfolk_group
-		culture_group = tn_reptile_demihuman_group
+		culture_group = tn_reptilefolk_group
 	}
 }
 

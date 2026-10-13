@@ -98,6 +98,90 @@ tn_european_group = {
 		female_names = { Placeholder }
 		dynasty_names = { Placeholder }
 	}
+	tn_basque = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_sami = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_kashubian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_breton = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_welsh = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_catalan = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_frisian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_sorbian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_finnish = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_estonian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_hungarian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_romanian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_czech = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_ukrainian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
 }
 
 tn_native_american_algonquian_group = {
@@ -131,6 +215,30 @@ tn_native_american_algonquian_group = {
 		female_names = { Placeholder }
 		dynasty_names = { Placeholder }
 	}
+	tn_shawnee = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_tippicannuck = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_abenaki = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_potawatomi = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
 }
 
 tn_native_american_iroquoian_group = {
@@ -153,6 +261,18 @@ tn_native_american_iroquoian_group = {
 		dynasty_names = { Placeholder }
 	}
 	tn_huron = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_oneida = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_onondaga = {
 		primary = ADD_TAG_HERE
 		male_names = { Placeholder }
 		female_names = { Placeholder }
@@ -212,6 +332,12 @@ tn_native_american_siouan_group = {
 		female_names = { Placeholder }
 		dynasty_names = { Placeholder }
 	}
+	tn_omaha = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
 }
 
 tn_native_american_southwestern_group = {
@@ -239,6 +365,12 @@ tn_native_american_southwestern_group = {
 		female_names = { Placeholder }
 		dynasty_names = { Placeholder }
 	}
+	tn_pueblo = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
 }
 
 tn_native_american_western_group = {
@@ -261,6 +393,111 @@ tn_native_american_western_group = {
 		dynasty_names = { Placeholder }
 	}
 	tn_pomo = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_nez_perce = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_paiute = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+}
+
+tn_native_american_plains_group = {
+	tn_comanche = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_cheyenne = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_pawnee = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_blackfoot = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_arapaho = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+}
+
+tn_native_american_arctic_group = {
+	tn_inuit = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_aleut = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_yupik = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+}
+
+tn_south_american_native_group = {
+	tn_quechua = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_aymara = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_guarani = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_mapuche = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_tupi = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_muisca = {
 		primary = ADD_TAG_HERE
 		male_names = { Placeholder }
 		female_names = { Placeholder }
@@ -305,7 +542,7 @@ tn_african_group = {
 		female_names = { Placeholder }
 		dynasty_names = { Placeholder }
 	}
-	tn_maroon = {
+	tn_african_american = {
 		primary = ADD_TAG_HERE
 		male_names = { Placeholder }
 		female_names = { Placeholder }
@@ -317,7 +554,10 @@ tn_african_group = {
 		female_names = { Placeholder }
 		dynasty_names = { Placeholder }
 	}
-	tn_african_american = {
+}
+
+tn_maroon_group = {
+	tn_maroon = {
 		primary = ADD_TAG_HERE
 		male_names = { Placeholder }
 		female_names = { Placeholder }
@@ -345,6 +585,42 @@ tn_perso_arabic_group = {
 		dynasty_names = { Placeholder }
 	}
 	tn_maghrebi = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_assyrian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_kurdish = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_hejazi = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_mesopotamian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_azeri = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_armenian = {
 		primary = ADD_TAG_HERE
 		male_names = { Placeholder }
 		female_names = { Placeholder }
@@ -458,6 +734,36 @@ tn_latin_american_group = {
 		female_names = { Placeholder }
 		dynasty_names = { Placeholder }
 	}
+	tn_argentine = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_brazilian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_venezuelan = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_guatemalan = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_ecuadorian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
 }
 
 tn_caribbean_group = {
@@ -480,6 +786,30 @@ tn_caribbean_group = {
 		dynasty_names = { Placeholder }
 	}
 	tn_puerto_rican = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_dominican = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_trinidadian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_bahamian = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_barbadian = {
 		primary = ADD_TAG_HERE
 		male_names = { Placeholder }
 		female_names = { Placeholder }
@@ -527,8 +857,20 @@ tn_mabruenian_group = {
 }
 
 # --- Demihumans ---
-tn_dogfolk_group = {
+tn_caninefolk_group = {
 	tn_dogfolk = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_wolffolk = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_foxfolk = {
 		primary = ADD_TAG_HERE
 		male_names = { Placeholder }
 		female_names = { Placeholder }
@@ -536,8 +878,20 @@ tn_dogfolk_group = {
 	}
 }
 
-tn_catfolk_group = {
+tn_felinefolk_group = {
 	tn_catfolk = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_lionfolk = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_tigerfolk = {
 		primary = ADD_TAG_HERE
 		male_names = { Placeholder }
 		female_names = { Placeholder }
@@ -546,7 +900,19 @@ tn_catfolk_group = {
 }
 
 tn_birdfolk_group = {
-	tn_birdfolk = {
+	tn_hawkfolk = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_owlfolk = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_corvidfolk = {
 		primary = ADD_TAG_HERE
 		male_names = { Placeholder }
 		female_names = { Placeholder }
@@ -590,8 +956,20 @@ tn_fishfolk_group = {
 	}
 }
 
-tn_reptile_demihuman_group = {
-	tn_reptile_demihuman = {
+tn_reptilefolk_group = {
+	tn_lizardfolk = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_turtlefolk = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+	tn_snakefolk = {
 		primary = ADD_TAG_HERE
 		male_names = { Placeholder }
 		female_names = { Placeholder }
@@ -601,7 +979,7 @@ tn_reptile_demihuman_group = {
 
 # --- Puella Magi ---
 tn_mitakihara_group = {
-	tn_mitakihara_puella = {
+	tn_mitakihara = {
 		primary = ADD_TAG_HERE
 		male_names = { Placeholder }
 		female_names = { Placeholder }
@@ -616,7 +994,7 @@ tn_mitakihara_group = {
 }
 
 tn_levin_group = {
-	tn_levin_puella = {
+	tn_levin = {
 		primary = ADD_TAG_HERE
 		male_names = { Placeholder }
 		female_names = { Placeholder }

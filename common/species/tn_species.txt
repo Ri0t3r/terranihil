@@ -8,7 +8,7 @@ tn_species_human = {
 	name = tn_species_human
 	flag = tn_species_human
 	# Baseline species.
-	culture_groups = { tn_european_group tn_native_american_algonquian_group tn_native_american_iroquoian_group tn_native_american_muskogean_group tn_native_american_siouan_group tn_native_american_southwestern_group tn_native_american_western_group tn_african_group tn_perso_arabic_group tn_indian_group tn_east_asian_group tn_oceanian_group tn_latin_american_group tn_caribbean_group tn_mabruenian_group }
+	culture_groups = { tn_european_group tn_native_american_algonquian_group tn_native_american_iroquoian_group tn_native_american_muskogean_group tn_native_american_siouan_group tn_native_american_southwestern_group tn_native_american_western_group tn_native_american_plains_group tn_native_american_arctic_group tn_south_american_native_group tn_african_group tn_maroon_group tn_perso_arabic_group tn_indian_group tn_east_asian_group tn_oceanian_group tn_latin_american_group tn_caribbean_group tn_mabruenian_group }
 	# TODO: species traits, modifiers, unique spells
 }
 
@@ -16,7 +16,7 @@ tn_species_demihuman = {
 	name = tn_species_demihuman
 	flag = tn_species_demihuman
 	# Part-human peoples.
-	culture_groups = { tn_dogfolk_group tn_catfolk_group tn_birdfolk_group tn_murid_group tn_fishfolk_group tn_reptile_demihuman_group }
+	culture_groups = { tn_caninefolk_group tn_felinefolk_group tn_birdfolk_group tn_murid_group tn_fishfolk_group tn_reptilefolk_group }
 	# TODO: species traits, modifiers, unique spells
 }
 
