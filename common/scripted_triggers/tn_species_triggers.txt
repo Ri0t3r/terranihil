@@ -1,2 +1,81 @@
-# Terra Nihil - Species scripted triggers (e.g. tn_is_primordian_culture)
-# Placeholder: add content below. See docs/STRUCTURE.md for conventions.
+# Terra Nihil - Species scripted triggers (culture-based)
+# Placeholder: gameplay logic goes where marked TODO. See docs/STRUCTURE.md.
+
+tn_is_human_culture = {
+	OR = {
+		culture_group = tn_european_group
+		culture_group = tn_native_american_algonquian_group
+		culture_group = tn_native_american_iroquoian_group
+		culture_group = tn_native_american_muskogean_group
+		culture_group = tn_native_american_siouan_group
+		culture_group = tn_native_american_southwestern_group
+		culture_group = tn_native_american_western_group
+		culture_group = tn_african_group
+		culture_group = tn_perso_arabic_group
+		culture_group = tn_indian_group
+		culture_group = tn_east_asian_group
+		culture_group = tn_oceanian_group
+		culture_group = tn_latin_american_group
+		culture_group = tn_caribbean_group
+		culture_group = tn_mabruenian_group
+	}
+}
+
+tn_is_demihuman_culture = {
+	OR = {
+		culture_group = tn_dogfolk_group
+		culture_group = tn_catfolk_group
+		culture_group = tn_birdfolk_group
+		culture_group = tn_murid_group
+		culture_group = tn_fishfolk_group
+		culture_group = tn_reptile_demihuman_group
+	}
+}
+
+tn_is_puella_magi_culture = {
+	OR = {
+		culture_group = tn_mitakihara_group
+		culture_group = tn_levin_group
+	}
+}
+
+tn_is_primordian_culture = {
+	OR = {
+		culture_group = tn_koiseko_group
+		culture_group = tn_beza_group
+		culture_group = tn_haka_group
+		culture_group = tn_glaimar_group
+		culture_group = tn_maena_group
+		culture_group = tn_kreel_group
+	}
+}
+
+tn_is_karriyan_culture = {
+	OR = {
+		culture_group = tn_karriyan_fire_group
+		culture_group = tn_karriyan_ice_group
+		culture_group = tn_karriyan_lightning_group
+		culture_group = tn_karriyan_poison_group
+		culture_group = tn_karriyan_shadow_group
+	}
+}
+
+tn_is_dzorapsid_culture = {
+	OR = {
+		culture_group = tn_dzorapsid_group
+	}
+}
+
+tn_is_zombie_culture = {
+	OR = {
+		culture_group = tn_conchitite_group
+		culture_group = tn_walker_group
+	}
+}
+
+tn_is_ultranian_culture = {
+	OR = {
+		culture_group = tn_ultranian_group
+	}
+}
+

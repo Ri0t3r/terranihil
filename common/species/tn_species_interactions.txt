@@ -1,2 +1,5 @@
-# Terra Nihil - Species-specific interactions and culture/religion integration
-# Placeholder: add content below. See docs/STRUCTURE.md for conventions.
+# Terra Nihil - Species interactions (culture/religion integration)
+# Placeholder: gameplay logic goes where marked TODO. See docs/STRUCTURE.md.
+
+# Religion is province-based; species is culture-based. Interactions go here.
+# TODO: e.g. species opinion matrix, conversion rules.
