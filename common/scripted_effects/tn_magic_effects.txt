@@ -1,0 +1,2 @@
+# Terra Nihil - Magic scripted effects (spell casting, cooldowns, mana)
+# Placeholder: add content below. See docs/STRUCTURE.md for conventions.

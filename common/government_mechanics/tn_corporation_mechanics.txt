@@ -1,0 +1,2 @@
+# Terra Nihil - Corporation government mechanics
+# Placeholder: add content below. See docs/STRUCTURE.md for conventions.

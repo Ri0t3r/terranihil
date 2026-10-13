@@ -1,0 +1,2 @@
+# Terra Nihil - Species definitions (incl. Primordian); read by tooling/docs, wired via scripted effects/triggers
+# Placeholder: add content below. See docs/STRUCTURE.md for conventions.

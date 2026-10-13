@@ -1,0 +1,2 @@
+# Terra Nihil - Species scripted triggers (e.g. tn_is_primordian_culture)
+# Placeholder: add content below. See docs/STRUCTURE.md for conventions.
