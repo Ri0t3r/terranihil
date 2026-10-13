@@ -1,2 +1,70 @@
-# Terra Nihil - Species definitions (incl. Primordian); read by tooling/docs, wired via scripted effects/triggers
-# Placeholder: add content below. See docs/STRUCTURE.md for conventions.
+# Terra Nihil - Species definitions (design reference; EU4 has no native species type)
+# Placeholder: gameplay logic goes where marked TODO. See docs/STRUCTURE.md.
+
+# Each species owns a culture group tn_<id>_group; cultures in that group belong to the species.
+# Religion stays province-based and is NOT tied to species.
+
+tn_species_human = {
+	name = tn_species_human
+	culture_group = tn_human_group
+	flag = tn_species_human
+	# Baseline species.
+	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+}
+
+tn_species_puella_magi = {
+	name = tn_species_puella_magi
+	culture_group = tn_puella_magi_group
+	flag = tn_species_puella_magi
+	# Magic-bound girls; ties into the magic system.
+	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+}
+
+tn_species_primordian = {
+	name = tn_species_primordian
+	culture_group = tn_primordian_group
+	flag = tn_species_primordian
+	# Humanoid space nomads that can increase muscle mass; Harikura Horde species.
+	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+}
+
+tn_species_zombie = {
+	name = tn_species_zombie
+	culture_group = tn_zombie_group
+	flag = tn_species_zombie
+	# Undead.
+	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+}
+
+tn_species_demihuman = {
+	name = tn_species_demihuman
+	culture_group = tn_demihuman_group
+	flag = tn_species_demihuman
+	# Part-human peoples.
+	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+}
+
+tn_species_dzorapsid = {
+	name = tn_species_dzorapsid
+	culture_group = tn_dzorapsid_group
+	flag = tn_species_dzorapsid
+	# Insectoid devouring swarm living in small hives.
+	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+}
+
+tn_species_ultranian = {
+	name = tn_species_ultranian
+	culture_group = tn_ultranian_group
+	flag = tn_species_ultranian
+	# Humanoids made of light.
+	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+}
+
+tn_species_karriyan = {
+	name = tn_species_karriyan
+	culture_group = tn_karriyan_group
+	flag = tn_species_karriyan
+	# Reptilians.
+	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+}
+

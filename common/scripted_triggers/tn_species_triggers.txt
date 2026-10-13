@@ -1,2 +1,76 @@
-# Terra Nihil - Species scripted triggers (e.g. tn_is_primordian_culture)
-# Placeholder: add content below. See docs/STRUCTURE.md for conventions.
+# Terra Nihil - Species scripted triggers
+# Placeholder: gameplay logic goes where marked TODO. See docs/STRUCTURE.md.
+
+tn_is_human_culture = {
+	culture_group = tn_human_group
+}
+
+tn_is_puella_magi_culture = {
+	culture_group = tn_puella_magi_group
+}
+
+tn_is_primordian_culture = {
+	culture_group = tn_primordian_group
+}
+
+tn_is_zombie_culture = {
+	culture_group = tn_zombie_group
+}
+
+tn_is_demihuman_culture = {
+	culture_group = tn_demihuman_group
+}
+
+tn_is_dzorapsid_culture = {
+	culture_group = tn_dzorapsid_group
+}
+
+tn_is_ultranian_culture = {
+	culture_group = tn_ultranian_group
+}
+
+tn_is_karriyan_culture = {
+	culture_group = tn_karriyan_group
+}
+
+# Species of a country is that of its primary culture.
+tn_country_is_human = {
+	primary_culture = tn_human_placeholder
+	# TODO: replace with culture_group check once available for primary culture
+}
+
+tn_country_is_puella_magi = {
+	primary_culture = tn_puella_magi_placeholder
+	# TODO: replace with culture_group check once available for primary culture
+}
+
+tn_country_is_primordian = {
+	primary_culture = tn_primordian_placeholder
+	# TODO: replace with culture_group check once available for primary culture
+}
+
+tn_country_is_zombie = {
+	primary_culture = tn_zombie_placeholder
+	# TODO: replace with culture_group check once available for primary culture
+}
+
+tn_country_is_demihuman = {
+	primary_culture = tn_demihuman_placeholder
+	# TODO: replace with culture_group check once available for primary culture
+}
+
+tn_country_is_dzorapsid = {
+	primary_culture = tn_dzorapsid_placeholder
+	# TODO: replace with culture_group check once available for primary culture
+}
+
+tn_country_is_ultranian = {
+	primary_culture = tn_ultranian_placeholder
+	# TODO: replace with culture_group check once available for primary culture
+}
+
+tn_country_is_karriyan = {
+	primary_culture = tn_karriyan_placeholder
+	# TODO: replace with culture_group check once available for primary culture
+}
+

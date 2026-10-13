@@ -24,6 +24,7 @@ EU4 has no native species concept; species sits beside religion and culture.
 - Implementation: scripted triggers/effects `common/scripted_{triggers,effects}/tn_species_*.txt`
   (e.g. `tn_is_primordian_culture`), species flags on countries/provinces, modifiers in `common/event_modifiers/`.
 - Cultures in `common/cultures/` and religions in `common/religions/` should each map to a species.
+- Culture groups `tn_<id>_group` (one per species: human, puella_magi, primordian, zombie, demihuman, dzorapsid, ultranian, karriyan); flags `tn_species_<id>`.
 - Content: `decisions/tn_species_decisions.txt`, `events/tn_species_events.txt`.
 
 ## Magic system

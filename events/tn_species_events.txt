@@ -1,2 +1,6 @@
 # Terra Nihil - Species events
-# Placeholder: add content below. See docs/STRUCTURE.md for conventions.
+# Placeholder: gameplay logic goes where marked TODO. See docs/STRUCTURE.md.
+
+namespace = tn_species
+
+# TODO: tn_species.1 etc.

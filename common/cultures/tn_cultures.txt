@@ -1,2 +1,75 @@
-# Terra Nihil - Culture groups and cultures
-# Placeholder: add content below. See docs/STRUCTURE.md for conventions.
+# Terra Nihil - Culture groups; one group per species, one placeholder culture each
+# Placeholder: gameplay logic goes where marked TODO. See docs/STRUCTURE.md.
+
+tn_human_group = {
+	tn_human_placeholder = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+}
+
+tn_puella_magi_group = {
+	tn_puella_magi_placeholder = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+}
+
+tn_primordian_group = {
+	tn_primordian_placeholder = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+}
+
+tn_zombie_group = {
+	tn_zombie_placeholder = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+}
+
+tn_demihuman_group = {
+	tn_demihuman_placeholder = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+}
+
+tn_dzorapsid_group = {
+	tn_dzorapsid_placeholder = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+}
+
+tn_ultranian_group = {
+	tn_ultranian_placeholder = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+}
+
+tn_karriyan_group = {
+	tn_karriyan_placeholder = {
+		primary = ADD_TAG_HERE
+		male_names = { Placeholder }
+		female_names = { Placeholder }
+		dynasty_names = { Placeholder }
+	}
+}
+

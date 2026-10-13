@@ -1,2 +1,51 @@
-# Terra Nihil - Species scripted effects (species layer; stored as country/province flags + variables)
-# Placeholder: add content below. See docs/STRUCTURE.md for conventions.
+# Terra Nihil - Species scripted effects (species stored as country flags)
+# Placeholder: gameplay logic goes where marked TODO. See docs/STRUCTURE.md.
+
+tn_set_species_human = {
+	clr_country_flag = tn_species_human
+	set_country_flag = tn_species_human
+	# TODO: apply species modifiers
+}
+
+tn_set_species_puella_magi = {
+	clr_country_flag = tn_species_puella_magi
+	set_country_flag = tn_species_puella_magi
+	# TODO: apply species modifiers
+}
+
+tn_set_species_primordian = {
+	clr_country_flag = tn_species_primordian
+	set_country_flag = tn_species_primordian
+	# TODO: apply species modifiers
+}
+
+tn_set_species_zombie = {
+	clr_country_flag = tn_species_zombie
+	set_country_flag = tn_species_zombie
+	# TODO: apply species modifiers
+}
+
+tn_set_species_demihuman = {
+	clr_country_flag = tn_species_demihuman
+	set_country_flag = tn_species_demihuman
+	# TODO: apply species modifiers
+}
+
+tn_set_species_dzorapsid = {
+	clr_country_flag = tn_species_dzorapsid
+	set_country_flag = tn_species_dzorapsid
+	# TODO: apply species modifiers
+}
+
+tn_set_species_ultranian = {
+	clr_country_flag = tn_species_ultranian
+	set_country_flag = tn_species_ultranian
+	# TODO: apply species modifiers
+}
+
+tn_set_species_karriyan = {
+	clr_country_flag = tn_species_karriyan
+	set_country_flag = tn_species_karriyan
+	# TODO: apply species modifiers
+}
+

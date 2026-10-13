@@ -1,2 +1,5 @@
 # Terra Nihil - On-action hooks
-# Placeholder: add content below. See docs/STRUCTURE.md for conventions.
+# Placeholder: gameplay logic goes where marked TODO. See docs/STRUCTURE.md.
+
+# TODO: on_startup -> assign species flags from primary culture, e.g.
+# on_startup = { every_country = { limit = { ... } tn_set_species_human = yes } }
