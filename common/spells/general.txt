@@ -1,0 +1,2 @@
+# Terra Nihil - General spells available to most species/religions/cultures
+# Placeholder: add content below. See docs/STRUCTURE.md for conventions.

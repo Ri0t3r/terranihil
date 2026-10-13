@@ -1,0 +1,2 @@
+# Terra Nihil - Species scripted effects (species layer; stored as country/province flags + variables)
+# Placeholder: add content below. See docs/STRUCTURE.md for conventions.

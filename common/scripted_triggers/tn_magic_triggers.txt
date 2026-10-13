@@ -1,0 +1,2 @@
+# Terra Nihil - Magic scripted triggers (spell availability by species/religion/culture/nation)
+# Placeholder: add content below. See docs/STRUCTURE.md for conventions.
