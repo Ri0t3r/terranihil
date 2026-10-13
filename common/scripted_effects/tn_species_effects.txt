@@ -7,6 +7,12 @@ tn_set_species_human = {
 	# TODO: apply species modifiers
 }
 
+tn_set_species_demihuman = {
+	clr_country_flag = tn_species_demihuman
+	set_country_flag = tn_species_demihuman
+	# TODO: apply species modifiers
+}
+
 tn_set_species_puella_magi = {
 	clr_country_flag = tn_species_puella_magi
 	set_country_flag = tn_species_puella_magi
@@ -19,15 +25,9 @@ tn_set_species_primordian = {
 	# TODO: apply species modifiers
 }
 
-tn_set_species_zombie = {
-	clr_country_flag = tn_species_zombie
-	set_country_flag = tn_species_zombie
-	# TODO: apply species modifiers
-}
-
-tn_set_species_demihuman = {
-	clr_country_flag = tn_species_demihuman
-	set_country_flag = tn_species_demihuman
+tn_set_species_karriyan = {
+	clr_country_flag = tn_species_karriyan
+	set_country_flag = tn_species_karriyan
 	# TODO: apply species modifiers
 }
 
@@ -37,15 +37,15 @@ tn_set_species_dzorapsid = {
 	# TODO: apply species modifiers
 }
 
-tn_set_species_ultranian = {
-	clr_country_flag = tn_species_ultranian
-	set_country_flag = tn_species_ultranian
+tn_set_species_zombie = {
+	clr_country_flag = tn_species_zombie
+	set_country_flag = tn_species_zombie
 	# TODO: apply species modifiers
 }
 
-tn_set_species_karriyan = {
-	clr_country_flag = tn_species_karriyan
-	set_country_flag = tn_species_karriyan
+tn_set_species_ultranian = {
+	clr_country_flag = tn_species_ultranian
+	set_country_flag = tn_species_ultranian
 	# TODO: apply species modifiers
 }
 

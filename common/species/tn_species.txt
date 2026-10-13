@@ -1,70 +1,70 @@
 # Terra Nihil - Species definitions (design reference; EU4 has no native species type)
 # Placeholder: gameplay logic goes where marked TODO. See docs/STRUCTURE.md.
 
-# Each species owns a culture group tn_<id>_group; cultures in that group belong to the species.
+# A species owns several culture groups (tn_<group>_group); cultures in those groups belong to it.
 # Religion stays province-based and is NOT tied to species.
 
 tn_species_human = {
 	name = tn_species_human
-	culture_group = tn_human_group
 	flag = tn_species_human
 	# Baseline species.
-	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
-}
-
-tn_species_puella_magi = {
-	name = tn_species_puella_magi
-	culture_group = tn_puella_magi_group
-	flag = tn_species_puella_magi
-	# Magic-bound girls; ties into the magic system.
-	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
-}
-
-tn_species_primordian = {
-	name = tn_species_primordian
-	culture_group = tn_primordian_group
-	flag = tn_species_primordian
-	# Humanoid space nomads that can increase muscle mass; Harikura Horde species.
-	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
-}
-
-tn_species_zombie = {
-	name = tn_species_zombie
-	culture_group = tn_zombie_group
-	flag = tn_species_zombie
-	# Undead.
-	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+	culture_groups = { tn_european_group tn_native_american_algonquian_group tn_native_american_iroquoian_group tn_native_american_muskogean_group tn_native_american_siouan_group tn_native_american_southwestern_group tn_native_american_western_group tn_african_group tn_perso_arabic_group tn_indian_group tn_east_asian_group tn_oceanian_group tn_latin_american_group tn_caribbean_group tn_mabruenian_group }
+	# TODO: species traits, modifiers, unique spells
 }
 
 tn_species_demihuman = {
 	name = tn_species_demihuman
-	culture_group = tn_demihuman_group
 	flag = tn_species_demihuman
 	# Part-human peoples.
-	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+	culture_groups = { tn_dogfolk_group tn_catfolk_group tn_birdfolk_group tn_murid_group tn_fishfolk_group tn_reptile_demihuman_group }
+	# TODO: species traits, modifiers, unique spells
 }
 
-tn_species_dzorapsid = {
-	name = tn_species_dzorapsid
-	culture_group = tn_dzorapsid_group
-	flag = tn_species_dzorapsid
-	# Insectoid devouring swarm living in small hives.
-	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+tn_species_puella_magi = {
+	name = tn_species_puella_magi
+	flag = tn_species_puella_magi
+	# Magic-bound girls; ties into the magic system.
+	culture_groups = { tn_mitakihara_group tn_levin_group }
+	# TODO: species traits, modifiers, unique spells
 }
 
-tn_species_ultranian = {
-	name = tn_species_ultranian
-	culture_group = tn_ultranian_group
-	flag = tn_species_ultranian
-	# Humanoids made of light.
-	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+tn_species_primordian = {
+	name = tn_species_primordian
+	flag = tn_species_primordian
+	# Humanoid space nomads that can increase muscle mass; Harikura Horde species.
+	culture_groups = { tn_koiseko_group tn_beza_group tn_haka_group tn_glaimar_group tn_maena_group tn_kreel_group }
+	# TODO: species traits, modifiers, unique spells
 }
 
 tn_species_karriyan = {
 	name = tn_species_karriyan
-	culture_group = tn_karriyan_group
 	flag = tn_species_karriyan
 	# Reptilians.
-	# TODO: species traits, modifiers, unique spells (common/spells/species_spells.txt)
+	culture_groups = { tn_karriyan_fire_group tn_karriyan_ice_group tn_karriyan_lightning_group tn_karriyan_poison_group tn_karriyan_shadow_group }
+	# TODO: species traits, modifiers, unique spells
+}
+
+tn_species_dzorapsid = {
+	name = tn_species_dzorapsid
+	flag = tn_species_dzorapsid
+	# Insectoid devouring swarm living in small hives.
+	culture_groups = { tn_dzorapsid_group }
+	# TODO: species traits, modifiers, unique spells
+}
+
+tn_species_zombie = {
+	name = tn_species_zombie
+	flag = tn_species_zombie
+	# Undead.
+	culture_groups = { tn_conchitite_group tn_walker_group }
+	# TODO: species traits, modifiers, unique spells
+}
+
+tn_species_ultranian = {
+	name = tn_species_ultranian
+	flag = tn_species_ultranian
+	# Humanoids made of light; nearly extinct at game start.
+	culture_groups = { tn_ultranian_group }
+	# TODO: species traits, modifiers, unique spells
 }
 
